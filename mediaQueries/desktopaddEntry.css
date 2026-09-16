@@ -1,0 +1,22 @@
+h1{
+    font-size: 1.8rem;
+}
+
+nav a{
+    font-size: 1.25rem;
+}
+
+footer p{
+    font-size: 1.25rem;
+}
+h2{
+    font-size: 2.5rem;
+}
+fieldset{ 
+    width: 35rem;
+    margin-top: 4rem;
+}
+.topButtons{
+    justify-content: center;
+    gap: 2rem;
+}

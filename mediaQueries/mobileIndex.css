@@ -1,0 +1,30 @@
+h1{
+    font-size: 1.8rem;
+}
+nav a{
+    font-size: 0.7rem;
+}
+nav ul{
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+h2{
+    font-size: 1.2rem;
+}
+.indexButtonContainer{
+    font-size:1rem;
+}
+aside{
+    align-items: center;
+    margin-top: 10rem;
+    
+}
+.socialsContainer img{
+    width: 2.5rem;
+    height: 2rem;
+    
+}
+footer{
+    font-size: 0.8rem;
+}
+

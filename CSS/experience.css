@@ -1,0 +1,12 @@
+.xpContainer{
+    display:grid;
+    grid-template-columns: repeat(2, auto);
+    gap:3rem;
+    margin-left: 1.5rem;
+    padding: 1.5rem;
+    flex:1,
+}
+h2{
+    text-align: center;
+    margin-bottom: 0.5rem;
+}

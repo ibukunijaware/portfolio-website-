@@ -1,0 +1,22 @@
+nav a{
+    font-size: 1.25rem;
+}
+h2{
+    font-size: 3rem;
+}
+aside{
+    align-items: center;
+    margin-top: 10rem;
+    
+}
+.socialsContainer img{
+    width: 3.5rem;
+    height: 3rem;
+    
+}
+.indexButtonContainer{
+    font-size: 2rem;
+}
+footer{
+    font-size: 1.25rem;
+}

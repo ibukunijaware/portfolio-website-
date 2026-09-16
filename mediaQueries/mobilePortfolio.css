@@ -1,0 +1,27 @@
+h1{
+    font-size: 1.8rem;
+}
+nav a{
+    font-size: 0.7rem;
+}
+nav ul{
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+footer p{
+    font-size: 0.8rem;
+}
+h2{
+    font-size: 1.2rem;  
+}
+.projectContainer{
+    display: grid;
+    grid-template-columns: 1fr; 
+    gap: 2rem;
+}
+h2{
+    font-size: 1.2rem;  
+}
+h3{
+    font-size: 1rem;
+}

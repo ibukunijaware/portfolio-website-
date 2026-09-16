@@ -1,0 +1,8 @@
+.educationContainer{
+    display: flex;
+    gap: 2.5rem;
+    padding: 2rem;
+}
+.educationContainer{
+    flex: 1;
+}

@@ -1,0 +1,29 @@
+h1{
+    font-size: 1.8rem;
+}
+nav a{
+    font-size: 0.7rem;
+}
+nav ul{
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+footer p{
+    font-size: 0.8rem;
+}
+aside h2{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+h2{
+    font-size: 1.2rem;
+}
+p1{
+    font-size: 0.9rem;
+}
+small{
+    font-size: 0.6rem;
+}
+.buttonContainer{
+    font-size: 0.5rem;
+}

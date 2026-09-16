@@ -1,0 +1,23 @@
+h1{
+    font-size: 1.8rem;
+}
+nav a{
+    font-size: 0.7rem;
+}
+nav ul{
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+footer p{
+    font-size: 0.8rem;
+}
+h2{
+    font-size: 1rem;
+}
+fieldset{
+    width: 18rem;
+}
+.topButtons{
+    justify-content: center;
+    gap: 1.5rem;
+}

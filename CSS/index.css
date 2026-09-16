@@ -1,0 +1,33 @@
+/*aside*/
+aside{
+    max-width: 40rem;
+    margin: 5rem auto;
+    padding: 3rem;
+    text-align: center;  
+}
+.indexButtonContainer{
+    color:  rgb(5, 5, 135);
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    background-color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+/*main*/
+.socialsContainer{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.socialsContainer figure{
+   margin:0;
+}
+
+.socialsContainer img{
+    width: 3.5rem;
+    height: 2.5rem;
+}

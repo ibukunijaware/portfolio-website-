@@ -1,0 +1,34 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+fieldset{
+    padding: 2rem;
+    width: 25rem;
+    border-radius: 0.5rem;
+}
+legend{
+    color: rgb(42, 42, 156);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+.buttonContainer{
+   margin-left: 7rem;
+   font-size: large;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-bottom: 2rem;
+}
+.form-group input{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(5, 5, 49);
+    margin-top: 0.5rem;
+}

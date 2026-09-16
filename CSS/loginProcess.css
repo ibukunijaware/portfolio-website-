@@ -1,0 +1,19 @@
+.errorContainer {
+    padding: 2rem;
+    margin-left: 2rem;
+    text-align: center;
+    align-items: center;
+}
+
+.errorMessage {
+    color:black;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+/* Link styling */
+.errorContainer a {
+    text-decoration: none;
+    color: blue;
+    font-size: 2.5rem;
+}

@@ -1,0 +1,23 @@
+aside,main{
+    margin-left:0.5rem;
+    margin-bottom: 1rem;
+}
+h2{
+    margin-bottom: 0.5rem;
+    font-size: 1.7rem;
+}
+.buttonContainer{
+    font-size: 0.7rem;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+p1{
+    font-size: 1.2rem;
+}
+small{
+    color: gray;
+    font-size: 0.9rem;
+}

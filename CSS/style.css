@@ -1,0 +1,46 @@
+/*All headers and navigation links*/
+header{
+    background-color: rgb(5, 5, 49);
+    padding: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h1{
+    color: white;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 1rem;
+}
+nav a:hover{
+    color: gray;
+}
+nav ul{
+    display: flex;
+    gap: 1rem;
+}
+
+/*footer*/
+footer{
+    background-color: rgb(5, 5, 49);
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+    margin-top: 2rem;
+}
+
+/*buttons*/
+.buttonContainer{
+    margin-left: 0.5rem;
+    border: 3px solid  rgb(5, 5, 49);
+    border-radius: 1rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color:rgb(42, 42, 156) ;
+    color: whitesmoke;
+
+}
+

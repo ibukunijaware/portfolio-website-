@@ -1,0 +1,30 @@
+/*Remove default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Make image responsive */
+img {
+    max-width: 100%;
+    display: block;
+}
+/*Remove list styles */
+ul, ol {
+    list-style: none;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+html, body{
+    height:100%;
+}
+main{
+    flex:1;
+}
+footer{
+    margin-top: auto;
+}
