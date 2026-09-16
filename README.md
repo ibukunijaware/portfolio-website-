@@ -23,7 +23,6 @@ The website was created using HTML, PHP, CSS, JavaScript and MySQL. It has a por
 -MySQL
 
 ## Project Structure 
-'''text
 Ibukunoluwa-phase2/
 │
 ├── CSS/
@@ -33,7 +32,6 @@ Ibukunoluwa-phase2/
 ├── PHP/
 ├── Projects/
 └── README.md
-'''
 
 ## How to Run 
 1. Install XAMPP.
